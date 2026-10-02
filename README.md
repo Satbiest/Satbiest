@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Perkenalan dinamis](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=4DE3E1&center=true&vCenter=true&width=800&height=60&lines=Hello,I'am%2C+Saya+Resiadi+%F0%9F%91%8B;Data+Scientist;Data+Analyst;Business+Intelligence)](https://git.io/typing-svg)
+[![Perkenalan dinamis](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=4DE3E1&center=true&vCenter=true&width=800&height=60&lines=Hello,I'am+Satya+Resiadi+%F0%9F%91%8B;Data+Scientist;Data+Analyst;Business+Intelligence)](https://git.io/typing-svg)
 
 </div>
 
