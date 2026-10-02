@@ -4,7 +4,6 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4DE3E1&center=true&vCenter=true&width=900&height=55&lines=Data+Scientist;Data+Analyst;Business+Intelligence;AI%2FML+%C2%B7+Data+Engineering+%C2%B7+Strategic+BI)](https://git.io/typing-svg)
 
 **Saya menghubungkan AI/ML, data engineering, dan business intelligence untuk mengubah data menjadi keputusan yang berdampak.**  
 Berbasis di Indonesia, saya senang membangun solusi analitik yang menjawab kebutuhan bisnis—dari pipeline data yang andal hingga dashboard dan model prediktif.
