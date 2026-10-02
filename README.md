@@ -1,6 +1,8 @@
 <div align="center">
 
-# Halo, saya [Isi Nama Anda] 👋
+[![Perkenalan dinamis](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1200&color=4DE3E1&center=true&vCenter=true&width=800&height=60&lines=Halo%2C+Saya+Nama+Anda+%F0%9F%91%8B;Data+Scientist;Data+Analyst;Business+Intelligence)](https://git.io/typing-svg)
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=4DE3E1&center=true&vCenter=true&width=900&height=55&lines=Data+Scientist;Data+Analyst;Business+Intelligence;AI%2FML+%C2%B7+Data+Engineering+%C2%B7+Strategic+BI)](https://git.io/typing-svg)
 
