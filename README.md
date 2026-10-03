@@ -166,7 +166,8 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect & Collaborate!
 
-Punya ide proyek data, peluang kolaborasi, atau sekadar ingin berdiskusi tentang analitik dan *machine learning*? Jangan ragu untuk menghubungi saya.
+> Have a data project idea, a collaboration opportunity, or simply want to discuss analytics and machine learning? Feel free to reach out — I’d be happy to connect
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/satyaresiadi/">
