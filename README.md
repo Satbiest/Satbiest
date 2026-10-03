@@ -1,16 +1,15 @@
 <!-- ============================================================
-  REPLACE BEFORE USE (search & replace):
-  USERNAME            -> your GitHub username
-  [University Name]   -> your university / institution
-  [City, Country]     -> your location
-  URL_LINKEDIN, EMAIL_ANDA, URL_BLOG, URL_PORTOFOLIO -> your contact links
-  [Mon YYYY – Mon YYYY] -> your start & end dates for each role (Experience table)
-  Project repository names (in the Featured Projects table) -> adjust
+  GANTI SEBELUM DIPAKAI (cari & ganti):
+  USERNAME            -> username GitHub Anda
+  [Nama Universitas]  -> institusi pendidikan Anda
+  [Kota, Negara]      -> lokasi Anda
+  URL_LINKEDIN, EMAIL_ANDA, URL_BLOG, URL_PORTOFOLIO -> kontak Anda
+  Nama repositori proyek (di tabel Featured Projects) -> sesuaikan
 ============================================================ -->
 
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="Dark Blue White Futuristic Illustration Artificial Intelligence Presentation.png" type=waving&color=0:0F172A,50:0E7490,100:10B981&height=200&section=header&text=Hi%20there,%20I'm%20Satya%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20BI%20Specialist&descSize=20&descAlignY=58" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:10B981&height=200&section=header&text=Hi%20there,%20I'm%20Satya%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20BI%20Specialist&descSize=20&descAlignY=58" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -24,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-%5BCity%2C%20Country%5D-0F172A?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
-  <img src="https://img.shields.io/badge/Education-%5BUniversity%20Name%5D-0F172A?style=flat-square&logo=googlescholar&logoColor=22D3EE" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-%5BKota%2C%20Negara%5D-0F172A?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-%5BNama%20Universitas%5D-0F172A?style=flat-square&logo=googlescholar&logoColor=22D3EE" alt="Education" />
   <img src="https://img.shields.io/badge/Competitions-9%20Awards%20%26%20Finalist-0E7490?style=flat-square&logo=awesomelists&logoColor=white" alt="Awards" />
 </p>
 
@@ -34,28 +33,28 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
-I am a data practitioner passionate about turning **raw data** into **high-impact business insights** and **accurate predictive models**. Grounded in three pillars, *Data Analytics*, *Data Science*, and *Business Intelligence*, I bridge business needs with measurable, trustworthy, decision-ready data solutions, from KPI dashboards to *RAG chatbots* and *deep learning* models.
+Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawasan bisnis berdampak tinggi** dan **model prediktif yang akurat**. Dengan fondasi di tiga pilar, yaitu *Data Analytics*, *Data Science*, dan *Business Intelligence*, saya menjembatani kebutuhan bisnis dengan solusi berbasis data yang terukur, dapat dipercaya, dan siap digunakan pengambil keputusan, dari dashboard KPI hingga *RAG chatbot* dan model *deep learning*.
 
-- 🔭 **Currently working on:** Early Warning System (EWS) for financial crisis detection in the Philippines using *deep learning* (LSTM, Hybrid CNN-LSTM, GRU)
-- ⚙️ **Core experience:** *Real-time data pipelines*, Power BI / Looker Studio dashboards, and RAG chatbots powered by *semantic search*
-- 🏆 **Competitions:** Winner & finalist in national-level data mining, analytics, and visualization competitions
-- 🎓 **Sharing knowledge:** Teaching Assistant at Sebelas Maret University (UNS)
-- 🤝 **Open to:** Data collaborations, research, and Data Analyst / Data Scientist career opportunities
-- 📍 **Based in:** [City, Country]
+- 🔭 **Sedang mengerjakan:** Early Warning System (EWS) deteksi krisis keuangan Filipina berbasis *deep learning* (LSTM, Hybrid CNN-LSTM, GRU)
+- ⚙️ **Pengalaman utama:** *Real-time data pipeline*, dashboard Power BI/Looker Studio, dan chatbot RAG berbasis *semantic search*
+- 🏆 **Kompetisi:** Juara & finalis di berbagai kompetisi data mining, analytics, dan visualisasi tingkat nasional
+- 🎓 **Berbagi ilmu:** Teaching Assistant di Sebelas Maret University (UNS)
+- 🤝 **Terbuka untuk:** Kolaborasi proyek data, riset, dan peluang karier Data Analyst / Data Scientist
+- 📍 **Berbasis di:** [Kota, Negara]
 
 ---
 
 <!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-| Period | Role | Organization |
-|:------:|:-----|:-------------|
-| Mar 2026 – Apr 2026 |  **Business Analyst Intern — Bancassurance Strategy Division** | PT Asuransi BRILife |
-| Oct 2025 - Nov 2025 |  **Data Scientist Intern** | Technocolabs Softwares Inc. |
-| Feb 2025 – Jul 2025 |  **Data Scientist Intern — Digital Business & Technology** | PT Telkom Indonesia (Persero) Tbk (Telkom)  |
-| Dec 2024 – Feb 2025 |  **Data Analyst Intern** | PT Global Data Inspirasi |
-| Jan 2025 – Feb 2025 |  **Data Analyst Intern** | Kudata.Id |
-| Aug 2024 – Dec 2024 |  **Teaching Assistant** | Sebelas Maret University (UNS) |
+| Role | Organisasi |
+|:-----|:-----------|
+| 📈 **Business Analyst Intern** — Bancassurance Strategy Division | PT Asuransi BRILife |
+| 🤖 **Data Scientist Intern** | Technocolabs Softwares Inc. |
+| 🤖 **Data Scientist Intern** — Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk (Telkom) |
+| 📊 **Data Analyst Intern** | PT Global Data Inspirasi |
+| 📊 **Data Analyst Intern** | Kudata.Id |
+| 🎓 **Teaching Assistant** | Sebelas Maret University (UNS) |
 
 ---
 
@@ -63,41 +62,111 @@ I am a data practitioner passionate about turning **raw data** into **high-impac
 ## 🛠️ Tech Stack & Tools
 
 ### 📊 Data Analytics
-<p>
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL%20%2F%20MySQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=22D3EE" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=22D3EE" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Python-NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=22D3EE" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Python-SciPy-0F172A?style=for-the-badge&logo=scipy&logoColor=22D3EE" alt="SciPy" />
-  <img src="https://img.shields.io/badge/R-Language-0F172A?style=for-the-badge&logo=r&logoColor=22D3EE" alt="R" />
-  <img src="https://img.shields.io/badge/Advanced-Excel-0F172A?style=for-the-badge&logo=microsoftexcel&logoColor=10B981" alt="Excel" />
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-0F172A?style=for-the-badge&logo=jupyter&logoColor=22D3EE" alt="EDA" />
-  <img src="https://img.shields.io/badge/Hypothesis-Testing-0F172A?style=for-the-badge&logo=databricks&logoColor=22D3EE" alt="Hypothesis Testing" />
-  <img src="https://img.shields.io/badge/A%2FB-Testing-0F172A?style=for-the-badge&logo=abtesting&logoColor=22D3EE" alt="A/B Testing" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" height="40" alt="SQL logo" title="SQL" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg" height="40" alt="Microsoft Excel logo" title="Microsoft Excel" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" height="40" alt="Power BI logo" title="Power BI" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" height="40" alt="Tableau logo" title="Tableau" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/looker-icon.svg" height="40" alt="Looker Studio logo" title="Looker Studio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" title="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" title="Matplotlib" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" height="40" alt="Seaborn logo" title="Seaborn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly logo" title="Plotly" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" title="Jupyter Notebook" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab logo" title="Google Colab" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" title="Azure" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" height="40" alt="n8n logo" title="n8n" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery logo" title="BigQuery" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit logo" title="Streamlit" />
+</div>
 
 ### 🤖 Data Science & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-0B3D91?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-0B3D91?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-0B3D91?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/XGBoost-0B3D91?style=for-the-badge&logoColor=white" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Time%20Series-LSTM%20%2F%20GRU-0B3D91?style=for-the-badge&logo=keras&logoColor=white" alt="LSTM GRU" />
-  <img src="https://img.shields.io/badge/Feature-Engineering-0B3D91?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Feature Engineering" />
-  <img src="https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-0B3D91?style=for-the-badge&logoColor=white" alt="Optuna" />
-  <img src="https://img.shields.io/badge/Model-Deployment-0B3D91?style=for-the-badge&logo=docker&logoColor=white" alt="Model Deployment" />
-  <img src="https://img.shields.io/badge/RAG-Chatbot-0B3D91?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Chatbot" />
-  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-0B3D91?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" height="40" alt="SQL logo" title="SQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" title="Pandas" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" title="NumPy" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" title="Matplotlib" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" height="40" alt="Seaborn logo" title="Seaborn" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly logo" title="Plotly" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn logo" title="Scikit-learn" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="40" alt="XGBoost logo" title="XGBoost" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_grey_text.svg" height="40" alt="LightGBM logo" title="LightGBM" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/catboost/catboost/master/logo/catboost.png" height="40" alt="CatBoost logo" title="CatBoost" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" title="TensorFlow" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" title="PyTorch" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" title="Jupyter Notebook" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab logo" title="Google Colab" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" title="Azure" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" height="40" alt="n8n logo" title="n8n" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery logo" title="BigQuery" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit logo" title="Streamlit" />
+</div>
 
 ### 📈 Business Intelligence
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-047857?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-047857?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-047857?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema-047857?style=for-the-badge&logo=databricks&logoColor=white" alt="Star Schema" />
-  <img src="https://img.shields.io/badge/KPI-Dashboarding-047857?style=for-the-badge&logo=grafana&logoColor=white" alt="KPI Dashboarding" />
-  <img src="https://img.shields.io/badge/Data-Storytelling-047857?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Data Storytelling" />
-</p>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" height="40" alt="SQL logo" title="SQL" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg" height="40" alt="Microsoft Excel logo" title="Microsoft Excel" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" height="40" alt="Power BI logo" title="Power BI" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" height="40" alt="Tableau logo" title="Tableau" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/looker-icon.svg" height="40" alt="Looker Studio logo" title="Looker Studio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly logo" title="Plotly" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" title="Azure" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" height="40" alt="n8n logo" title="n8n" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery logo" title="BigQuery" />
+</div>
 
 ---
 
@@ -118,38 +187,38 @@ I am a data practitioner passionate about turning **raw data** into **high-impac
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-| Project | Problem & Solution | Tech Stack |
-|:--------|:-------------------|:-----------|
-| 🤖 **[TALENTA — Telkom Annual Language Model Assistant](https://github.com/USERNAME/talenta-rag-chatbot)** | **Problem:** Telkom Indonesia's 2024 corporate reports span 800+ pages and are hard to navigate quickly. <br> **Solution:** Developed an AI-powered RAG chatbot that enables interactive access to the full reports, integrating *semantic search*, *reranking*, and n8n workflow automation. | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) ![RAG](https://img.shields.io/badge/RAG-0F172A?style=flat-square&logo=openai&logoColor=22D3EE) ![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=22D3EE) |
-| ⚙️ **[Real-Time Data Pipeline & 3rd Iteration Dashboard](https://github.com/USERNAME/realtime-pipeline-dashboard)** | **Problem:** Monitoring talent performance requires always-up-to-date data and strategic KPI analysis. <br> **Solution:** Designed and implemented a *real-time data pipeline* for the performance data of 110 Telkom talents and developed the 3rd iteration of an interactive Power BI dashboard for KPI monitoring and strategic performance analysis. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Pipeline](https://img.shields.io/badge/Data%20Pipeline-0F172A?style=flat-square&logo=databricks&logoColor=10B981) ![KPI](https://img.shields.io/badge/KPI%20Monitoring-0F172A?style=flat-square&logo=grafana&logoColor=10B981) |
-| 📈 **[AMKKM Program BRILife Dashboard](https://github.com/USERNAME/amkkm-brilife-dashboard)** | **Problem:** AMKKM program performance across 400 branch offices and 4,994 operational units was difficult to evaluate comprehensively. <br> **Solution:** Built an interactive Power BI dashboard analyzing premium achievement, customer participation, product distribution, and reward performance to support performance evaluation and reporting. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![DAX](https://img.shields.io/badge/DAX-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0F172A?style=flat-square&logo=databricks&logoColor=10B981) |
-| 📊 **[Survey Performance Analytical Dashboard](https://github.com/USERNAME/survey-performance-dashboard)** | **Problem:** Survey, user, participant, and payment data were scattered across separate datasets. <br> **Solution:** Integrated and analyzed 4 interconnected datasets (1,000 users, 200 surveys, 13,979 participants) into a Looker Studio dashboard to monitor survey engagement, fulfillment, user activity, and payment performance. | ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0F172A?style=flat-square&logo=looker&logoColor=10B981) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) |
+| Proyek | Problem & Solusi | Tech Stack |
+|:-------|:-----------------|:-----------|
+| 🤖 **[TALENTA — Telkom Annual Language Model Assistant](https://github.com/USERNAME/talenta-rag-chatbot)** | **Problem:** Laporan korporat Telkom Indonesia 2024 setebal 800+ halaman sulit ditelusuri secara cepat. <br> **Solusi:** Mengembangkan chatbot RAG berbasis AI yang memungkinkan akses interaktif ke seluruh laporan, dengan *semantic search*, *reranking*, dan otomatisasi alur kerja n8n. | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) ![RAG](https://img.shields.io/badge/RAG-0F172A?style=flat-square&logo=openai&logoColor=22D3EE) ![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=22D3EE) |
+| ⚙️ **[Real-Time Data Pipeline & 3rd Iteration Dashboard](https://github.com/USERNAME/realtime-pipeline-dashboard)** | **Problem:** Pemantauan kinerja talent memerlukan data yang selalu mutakhir dan analisis KPI yang strategis. <br> **Solusi:** Merancang *real-time data pipeline* untuk data kinerja 110 talent Telkom dan mengembangkan dashboard Power BI interaktif iterasi ke-3 untuk monitoring KPI dan analisis kinerja strategis. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Pipeline](https://img.shields.io/badge/Data%20Pipeline-0F172A?style=flat-square&logo=databricks&logoColor=10B981) ![KPI](https://img.shields.io/badge/KPI%20Monitoring-0F172A?style=flat-square&logo=grafana&logoColor=10B981) |
+| 📈 **[AMKKM Program BRILife Dashboard](https://github.com/USERNAME/amkkm-brilife-dashboard)** | **Problem:** Kinerja program AMKKM di 400 kantor cabang dan 4.994 unit operasional sulit dievaluasi secara menyeluruh. <br> **Solusi:** Membangun dashboard Power BI interaktif yang menganalisis pencapaian premi, partisipasi nasabah, distribusi produk, dan kinerja reward untuk mendukung evaluasi dan pelaporan. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![DAX](https://img.shields.io/badge/DAX-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0F172A?style=flat-square&logo=databricks&logoColor=10B981) |
+| 📊 **[Survey Performance Analytical Dashboard](https://github.com/USERNAME/survey-performance-dashboard)** | **Problem:** Data survei, pengguna, partisipan, dan pembayaran tersebar di beberapa dataset terpisah. <br> **Solusi:** Mengintegrasikan dan menganalisis 4 dataset terkait (1.000 pengguna, 200 survei, 13.979 partisipan) menjadi dashboard Looker Studio untuk memantau *engagement*, *fulfillment*, aktivitas pengguna, dan kinerja pembayaran. | ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0F172A?style=flat-square&logo=looker&logoColor=10B981) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) |
 
-> 💡 *Adjust the repository links above. If a project is internal or confidential, link to a public write-up or case study instead.*
+> 💡 *Sesuaikan tautan repositori di atas. Jika proyek bersifat internal/rahasia, ganti dengan link dokumentasi atau studi kasus publik.*
 
 ---
 
 <!-- ===================== AWARDS ===================== -->
 ## 🏆 Awards & Achievements
 
-| Year | Achievement | Competition & Organizer |
-|:----:|:------------|:------------------------|
-| 2025 | 🥉 **3rd Place** | SPARK Telkomsel Datathon — Bandung Institute of Technology (ITB) |
-| 2025 | 🥈 **2nd Place** | National Data Analytics Competition (NDAC), EPSILON — Padang State University (UNP) |
-| 2025 | 🥈 **2nd Place** | Data Mining Competition — Trunojoyo University Madura (UTM) |
-| 2025 | 🎤 **Best Presentation** | KIS ANAVA #19 — Gadjah Mada University (UGM) |
-| 2025 | 4️⃣ **4th Place** | Sebelas Maret Statistics Dashboard Competition (SSDC), Statistics Fair — Sebelas Maret University (UNS) |
-| 2025 | 🏅 **Top 6** | Data Visualization Competition, P!NGFEST — Sebelas Maret University (UNS) |
+| Tahun | Prestasi | Kompetisi & Penyelenggara |
+|:-----:|:---------|:--------------------------|
+| 2025 | 🥉 **3rd Place** | SPARK Telkomsel Datathon — Institut Teknologi Bandung (ITB) |
+| 2025 | 🥈 **2nd Place** | National Data Analytics Competition (NDAC), EPSILON — Universitas Negeri Padang (UNP) |
+| 2025 | 🥈 **2nd Place** | Data Mining Competition — Universitas Trunojoyo Madura (UTM) |
+| 2025 | 🎤 **Best Presentation** | KIS ANAVA #19 — Universitas Gadjah Mada (UGM) |
+| 2025 | 4️⃣ **4th Place** | Sebelas Maret Statistics Dashboard Competition (SSDC), Statistics Fair — Universitas Sebelas Maret (UNS) |
+| 2025 | 🏅 **Top 6** | Data Visualization Competition, P!NGFEST — Universitas Sebelas Maret (UNS) |
 | 2025 | 🎯 **Finalist** | Estatics Competition, GAMMAFEST — IPB University (IPB) |
-| 2025 | 5️⃣ **5th Place** | Essay Competition, Smart Statistics (SMATIC) 6.0 — State University of Jakarta (UNJ) |
-| 2024 | 🥉 **3rd Place** | Infographic Competition, Tadulako Data Challenge (TDC) — Tadulako University (UNTAD) |
+| 2025 | 5️⃣ **5th Place** | Essay Competition, Smart Statistics (SMATIC) 6.0 — Universitas Negeri Jakarta (UNJ) |
+| 2024 | 🥉 **3rd Place** | Infographic Competition, Tadulako Data Challenge (TDC) — Universitas Tadulako (UNTAD) |
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect & Collaborate!
 
-Have a data project idea, a collaboration opportunity, or just want to chat about analytics and machine learning? Feel free to reach out.
+Punya ide proyek data, peluang kolaborasi, atau sekadar ingin berdiskusi tentang analitik dan *machine learning*? Jangan ragu untuk menghubungi saya.
 
 <p align="center">
   <a href="URL_LINKEDIN">
