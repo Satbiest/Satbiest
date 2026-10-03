@@ -46,6 +46,7 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 
 <!-- ===================== EXPERIENCE ===================== -->
 ## Experience
+ <i>"Building practical experience across data analytics, data science, and business intelligence, through industry projects and internships </i>
 
 | Role | Organization |
 |:------|:--------|
