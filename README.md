@@ -147,7 +147,7 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 <!-- ===================== AWARDS ===================== -->
 ## 🏆 Awards & Achievements
 
-| Tahun | Prestasi | Kompetisi & Penyelenggara |
+| Tahun | Prestasi | Competition & Organizer |
 |:-----:|:---------|:--------------------------|
 | 2025 | 🥉 **3rd Place** | SPARK Telkomsel Datathon — Institut Teknologi Bandung (ITB) |
 | 2025 | 🥈 **2nd Place** | National Data Analytics Competition (NDAC), EPSILON — Universitas Negeri Padang (UNP) |
