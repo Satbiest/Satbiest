@@ -37,12 +37,10 @@ I am a data practitioner with a strong interest in **Data Analytics, Data Scienc
 
 My experience spans **dashboard development, real-time data pipelines, machine learning, deep learning, and RAG-based AI systems**, with a strong emphasis on solving real business problems and supporting better decision-making.
 
-- 🔭 Currently developing a **financial crisis Early Warning System** using LSTM, Hybrid CNN-LSTM, and GRU
-- ⚙️ Experienced in **Power BI, Looker Studio, real-time data pipelines, machine learning, and RAG systems**
-- 🏆 Award winner and finalist in multiple national data and analytics competitions
-- 🎓 Former Teaching Assistant at **Sebelas Maret University (UNS)**
-- 🤝 Open to **data projects, research collaborations, and Data Analyst / Data Scientist opportunities**
-- 📍 Based in Indonesia
+-  Experienced in **Power BI, Looker Studio, real-time data pipelines, machine learning, and RAG systems**
+-  Award winner and finalist in multiple national data and analytics competitions
+-  Former Teaching Assistant at **Sebelas Maret University (UNS)**
+- Open to **data projects, research collaborations, and Data Analyst / Data Scientist opportunities**
 
 ---
 
