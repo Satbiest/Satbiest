@@ -47,14 +47,14 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 <!-- ===================== EXPERIENCE ===================== -->
 ## Experience
 
-| Role | Organisasi |
-|:-----|:-----------|
-|  **Business Analyst Intern** - Bancassurance Strategy Division | PT Asuransi BRILife |
-|  **Data Scientist Intern** | Technocolabs Softwares Inc. |
-|  **Data Scientist Intern** - Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk (Telkom) |
-|  **Data Analyst Intern** | PT Global Data Inspirasi |
-|  **Data Analyst Intern** | Kudata.Id |
-|  **Teaching Assistant** | Sebelas Maret University (UNS) |
+| Period | Role | Organization |
+|:------|:-----|:--------|
+| **Business Analyst Intern** — Bancassurance Strategy Division | PT Asuransi BRI Life |
+| **Data Scientist Intern** | Technocolabs Softwares Inc. |
+| **Data Scientist Intern** — Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk |
+| **Data Analyst Intern** | PT Global Data Inspirasi (DataIns) |
+| **Data Analyst Intern** | Kudata.id |
+| **Teaching Assistant** | Sebelas Maret University (UNS) |
 
 ---
 
