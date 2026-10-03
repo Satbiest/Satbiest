@@ -31,16 +31,18 @@
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
-## 👨‍💻 About Me
+## 👋 About Me
 
-Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawasan bisnis berdampak tinggi** dan **model prediktif yang akurat**. Dengan fondasi di tiga pilar, yaitu *Data Analytics*, *Data Science*, dan *Business Intelligence*, saya menjembatani kebutuhan bisnis dengan solusi berbasis data yang terukur, dapat dipercaya, dan siap digunakan pengambil keputusan, dari dashboard KPI hingga *RAG chatbot* dan model *deep learning*.
+I am a data practitioner with a strong interest in **Data Analytics, Data Science, and Business Intelligence**, focused on turning raw data into actionable insights and reliable data-driven solutions.
 
-- 🔭 **Sedang mengerjakan:** Early Warning System (EWS) deteksi krisis keuangan Filipina berbasis *deep learning* (LSTM, Hybrid CNN-LSTM, GRU)
-- ⚙️ **Pengalaman utama:** *Real-time data pipeline*, dashboard Power BI/Looker Studio, dan chatbot RAG berbasis *semantic search*
-- 🏆 **Kompetisi:** Juara & finalis di berbagai kompetisi data mining, analytics, dan visualisasi tingkat nasional
-- 🎓 **Berbagi ilmu:** Teaching Assistant di Sebelas Maret University (UNS)
-- 🤝 **Terbuka untuk:** Kolaborasi proyek data, riset, dan peluang karier Data Analyst / Data Scientist
-- 📍 **Berbasis di:** [Kota, Negara]
+My experience spans **dashboard development, real-time data pipelines, machine learning, deep learning, and RAG-based AI systems**, with a strong emphasis on solving real business problems and supporting better decision-making.
+
+- 🔭 Currently developing a **financial crisis Early Warning System** using LSTM, Hybrid CNN-LSTM, and GRU
+- ⚙️ Experienced in **Power BI, Looker Studio, real-time data pipelines, machine learning, and RAG systems**
+- 🏆 Award winner and finalist in multiple national data and analytics competitions
+- 🎓 Former Teaching Assistant at **Sebelas Maret University (UNS)**
+- 🤝 Open to **data projects, research collaborations, and Data Analyst / Data Scientist opportunities**
+- 📍 Based in Indonesia
 
 ---
 
