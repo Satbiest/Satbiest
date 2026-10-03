@@ -4,6 +4,7 @@
   [University Name]   -> your university / institution
   [City, Country]     -> your location
   URL_LINKEDIN, EMAIL_ANDA, URL_BLOG, URL_PORTOFOLIO -> your contact links
+  [Mon YYYY – Mon YYYY] -> your start & end dates for each role (Experience table)
   Project repository names (in the Featured Projects table) -> adjust
 ============================================================ -->
 
@@ -47,14 +48,14 @@ I am a data practitioner passionate about turning **raw data** into **high-impac
 <!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-| Role | Organization |
-|:-----|:-------------|
-| 📈 **Business Analyst Intern** — Bancassurance Strategy Division | PT Asuransi BRILife |
-| 🤖 **Data Scientist Intern** | Technocolabs Softwares Inc. |
-| 🤖 **Data Scientist Intern** — Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk (Telkom) |
-| 📊 **Data Analyst Intern** | PT Global Data Inspirasi |
-| 📊 **Data Analyst Intern** | Kudata.Id |
-| 🎓 **Teaching Assistant** | Sebelas Maret University (UNS) |
+| Period | Role | Organization |
+|:------:|:-----|:-------------|
+| [Mon YYYY – Mon YYYY] | 📈 **Business Analyst Intern** | PT Asuransi BRILife — Bancassurance Strategy Division |
+| [Mon YYYY – Mon YYYY] | 🤖 **Data Scientist Intern** | Technocolabs Softwares Inc. |
+| [Mon YYYY – Mon YYYY] | 🤖 **Data Scientist Intern** | PT Telkom Indonesia (Persero) Tbk (Telkom) — Digital Business & Technology |
+| [Mon YYYY – Mon YYYY] | 📊 **Data Analyst Intern** | PT Global Data Inspirasi |
+| [Mon YYYY – Mon YYYY] | 📊 **Data Analyst Intern** | Kudata.Id |
+| [Mon YYYY – Mon YYYY] | 🎓 **Teaching Assistant** | Sebelas Maret University (UNS) |
 
 ---
 
