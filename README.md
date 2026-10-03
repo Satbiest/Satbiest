@@ -1,10 +1,10 @@
 <!-- ============================================================
-  GANTI SEBELUM DIPAKAI (cari & ganti):
-  USERNAME            -> username GitHub Anda
-  [Nama Universitas]  -> institusi pendidikan Anda
-  [Kota, Negara]      -> lokasi Anda
-  URL_LINKEDIN, EMAIL_ANDA, URL_BLOG, URL_PORTOFOLIO -> kontak Anda
-  Nama repositori proyek (di tabel Featured Projects) -> sesuaikan
+  REPLACE BEFORE USE (search & replace):
+  USERNAME            -> your GitHub username
+  [University Name]   -> your university / institution
+  [City, Country]     -> your location
+  URL_LINKEDIN, EMAIL_ANDA, URL_BLOG, URL_PORTOFOLIO -> your contact links
+  Project repository names (in the Featured Projects table) -> adjust
 ============================================================ -->
 
 <!-- ===================== HEADER ===================== -->
@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-%5BKota%2C%20Negara%5D-0F172A?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
-  <img src="https://img.shields.io/badge/Education-%5BNama%20Universitas%5D-0F172A?style=flat-square&logo=googlescholar&logoColor=22D3EE" alt="Education" />
+  <img src="https://img.shields.io/badge/Location-%5BCity%2C%20Country%5D-0F172A?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
+  <img src="https://img.shields.io/badge/Education-%5BUniversity%20Name%5D-0F172A?style=flat-square&logo=googlescholar&logoColor=22D3EE" alt="Education" />
   <img src="https://img.shields.io/badge/Competitions-9%20Awards%20%26%20Finalist-0E7490?style=flat-square&logo=awesomelists&logoColor=white" alt="Awards" />
 </p>
 
@@ -33,22 +33,22 @@
 <!-- ===================== ABOUT ME ===================== -->
 ## 👨‍💻 About Me
 
-Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawasan bisnis berdampak tinggi** dan **model prediktif yang akurat**. Dengan fondasi di tiga pilar, yaitu *Data Analytics*, *Data Science*, dan *Business Intelligence*, saya menjembatani kebutuhan bisnis dengan solusi berbasis data yang terukur, dapat dipercaya, dan siap digunakan pengambil keputusan, dari dashboard KPI hingga *RAG chatbot* dan model *deep learning*.
+I am a data practitioner passionate about turning **raw data** into **high-impact business insights** and **accurate predictive models**. Grounded in three pillars, *Data Analytics*, *Data Science*, and *Business Intelligence*, I bridge business needs with measurable, trustworthy, decision-ready data solutions, from KPI dashboards to *RAG chatbots* and *deep learning* models.
 
-- 🔭 **Sedang mengerjakan:** Early Warning System (EWS) deteksi krisis keuangan Filipina berbasis *deep learning* (LSTM, Hybrid CNN-LSTM, GRU)
-- ⚙️ **Pengalaman utama:** *Real-time data pipeline*, dashboard Power BI/Looker Studio, dan chatbot RAG berbasis *semantic search*
-- 🏆 **Kompetisi:** Juara & finalis di berbagai kompetisi data mining, analytics, dan visualisasi tingkat nasional
-- 🎓 **Berbagi ilmu:** Teaching Assistant di Sebelas Maret University (UNS)
-- 🤝 **Terbuka untuk:** Kolaborasi proyek data, riset, dan peluang karier Data Analyst / Data Scientist
-- 📍 **Berbasis di:** [Kota, Negara]
+- 🔭 **Currently working on:** Early Warning System (EWS) for financial crisis detection in the Philippines using *deep learning* (LSTM, Hybrid CNN-LSTM, GRU)
+- ⚙️ **Core experience:** *Real-time data pipelines*, Power BI / Looker Studio dashboards, and RAG chatbots powered by *semantic search*
+- 🏆 **Competitions:** Winner & finalist in national-level data mining, analytics, and visualization competitions
+- 🎓 **Sharing knowledge:** Teaching Assistant at Sebelas Maret University (UNS)
+- 🤝 **Open to:** Data collaborations, research, and Data Analyst / Data Scientist career opportunities
+- 📍 **Based in:** [City, Country]
 
 ---
 
 <!-- ===================== EXPERIENCE ===================== -->
 ## 💼 Experience
 
-| Role | Organisasi |
-|:-----|:-----------|
+| Role | Organization |
+|:-----|:-------------|
 | 📈 **Business Analyst Intern** — Bancassurance Strategy Division | PT Asuransi BRILife |
 | 🤖 **Data Scientist Intern** | Technocolabs Softwares Inc. |
 | 🤖 **Data Scientist Intern** — Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk (Telkom) |
@@ -117,38 +117,38 @@ Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawas
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
-| Proyek | Problem & Solusi | Tech Stack |
-|:-------|:-----------------|:-----------|
-| 🤖 **[TALENTA — Telkom Annual Language Model Assistant](https://github.com/USERNAME/talenta-rag-chatbot)** | **Problem:** Laporan korporat Telkom Indonesia 2024 setebal 800+ halaman sulit ditelusuri secara cepat. <br> **Solusi:** Mengembangkan chatbot RAG berbasis AI yang memungkinkan akses interaktif ke seluruh laporan, dengan *semantic search*, *reranking*, dan otomatisasi alur kerja n8n. | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) ![RAG](https://img.shields.io/badge/RAG-0F172A?style=flat-square&logo=openai&logoColor=22D3EE) ![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=22D3EE) |
-| ⚙️ **[Real-Time Data Pipeline & 3rd Iteration Dashboard](https://github.com/USERNAME/realtime-pipeline-dashboard)** | **Problem:** Pemantauan kinerja talent memerlukan data yang selalu mutakhir dan analisis KPI yang strategis. <br> **Solusi:** Merancang *real-time data pipeline* untuk data kinerja 110 talent Telkom dan mengembangkan dashboard Power BI interaktif iterasi ke-3 untuk monitoring KPI dan analisis kinerja strategis. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Pipeline](https://img.shields.io/badge/Data%20Pipeline-0F172A?style=flat-square&logo=databricks&logoColor=10B981) ![KPI](https://img.shields.io/badge/KPI%20Monitoring-0F172A?style=flat-square&logo=grafana&logoColor=10B981) |
-| 📈 **[AMKKM Program BRILife Dashboard](https://github.com/USERNAME/amkkm-brilife-dashboard)** | **Problem:** Kinerja program AMKKM di 400 kantor cabang dan 4.994 unit operasional sulit dievaluasi secara menyeluruh. <br> **Solusi:** Membangun dashboard Power BI interaktif yang menganalisis pencapaian premi, partisipasi nasabah, distribusi produk, dan kinerja reward untuk mendukung evaluasi dan pelaporan. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![DAX](https://img.shields.io/badge/DAX-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0F172A?style=flat-square&logo=databricks&logoColor=10B981) |
-| 📊 **[Survey Performance Analytical Dashboard](https://github.com/USERNAME/survey-performance-dashboard)** | **Problem:** Data survei, pengguna, partisipan, dan pembayaran tersebar di beberapa dataset terpisah. <br> **Solusi:** Mengintegrasikan dan menganalisis 4 dataset terkait (1.000 pengguna, 200 survei, 13.979 partisipan) menjadi dashboard Looker Studio untuk memantau *engagement*, *fulfillment*, aktivitas pengguna, dan kinerja pembayaran. | ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0F172A?style=flat-square&logo=looker&logoColor=10B981) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) |
+| Project | Problem & Solution | Tech Stack |
+|:--------|:-------------------|:-----------|
+| 🤖 **[TALENTA — Telkom Annual Language Model Assistant](https://github.com/USERNAME/talenta-rag-chatbot)** | **Problem:** Telkom Indonesia's 2024 corporate reports span 800+ pages and are hard to navigate quickly. <br> **Solution:** Developed an AI-powered RAG chatbot that enables interactive access to the full reports, integrating *semantic search*, *reranking*, and n8n workflow automation. | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) ![RAG](https://img.shields.io/badge/RAG-0F172A?style=flat-square&logo=openai&logoColor=22D3EE) ![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat-square&logo=n8n&logoColor=22D3EE) |
+| ⚙️ **[Real-Time Data Pipeline & 3rd Iteration Dashboard](https://github.com/USERNAME/realtime-pipeline-dashboard)** | **Problem:** Monitoring talent performance requires always-up-to-date data and strategic KPI analysis. <br> **Solution:** Designed and implemented a *real-time data pipeline* for the performance data of 110 Telkom talents and developed the 3rd iteration of an interactive Power BI dashboard for KPI monitoring and strategic performance analysis. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Pipeline](https://img.shields.io/badge/Data%20Pipeline-0F172A?style=flat-square&logo=databricks&logoColor=10B981) ![KPI](https://img.shields.io/badge/KPI%20Monitoring-0F172A?style=flat-square&logo=grafana&logoColor=10B981) |
+| 📈 **[AMKKM Program BRILife Dashboard](https://github.com/USERNAME/amkkm-brilife-dashboard)** | **Problem:** AMKKM program performance across 400 branch offices and 4,994 operational units was difficult to evaluate comprehensively. <br> **Solution:** Built an interactive Power BI dashboard analyzing premium achievement, customer participation, product distribution, and reward performance to support performance evaluation and reporting. | ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![DAX](https://img.shields.io/badge/DAX-0F172A?style=flat-square&logo=powerbi&logoColor=10B981) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0F172A?style=flat-square&logo=databricks&logoColor=10B981) |
+| 📊 **[Survey Performance Analytical Dashboard](https://github.com/USERNAME/survey-performance-dashboard)** | **Problem:** Survey, user, participant, and payment data were scattered across separate datasets. <br> **Solution:** Integrated and analyzed 4 interconnected datasets (1,000 users, 200 surveys, 13,979 participants) into a Looker Studio dashboard to monitor survey engagement, fulfillment, user activity, and payment performance. | ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0F172A?style=flat-square&logo=looker&logoColor=10B981) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=22D3EE) ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE) |
 
-> 💡 *Sesuaikan tautan repositori di atas. Jika proyek bersifat internal/rahasia, ganti dengan link dokumentasi atau studi kasus publik.*
+> 💡 *Adjust the repository links above. If a project is internal or confidential, link to a public write-up or case study instead.*
 
 ---
 
 <!-- ===================== AWARDS ===================== -->
 ## 🏆 Awards & Achievements
 
-| Tahun | Prestasi | Kompetisi & Penyelenggara |
-|:-----:|:---------|:--------------------------|
-| 2025 | 🥉 **3rd Place** | SPARK Telkomsel Datathon — Institut Teknologi Bandung (ITB) |
-| 2025 | 🥈 **2nd Place** | National Data Analytics Competition (NDAC), EPSILON — Universitas Negeri Padang (UNP) |
-| 2025 | 🥈 **2nd Place** | Data Mining Competition — Universitas Trunojoyo Madura (UTM) |
-| 2025 | 🎤 **Best Presentation** | KIS ANAVA #19 — Universitas Gadjah Mada (UGM) |
-| 2025 | 4️⃣ **4th Place** | Sebelas Maret Statistics Dashboard Competition (SSDC), Statistics Fair — Universitas Sebelas Maret (UNS) |
-| 2025 | 🏅 **Top 6** | Data Visualization Competition, P!NGFEST — Universitas Sebelas Maret (UNS) |
+| Year | Achievement | Competition & Organizer |
+|:----:|:------------|:------------------------|
+| 2025 | 🥉 **3rd Place** | SPARK Telkomsel Datathon — Bandung Institute of Technology (ITB) |
+| 2025 | 🥈 **2nd Place** | National Data Analytics Competition (NDAC), EPSILON — Padang State University (UNP) |
+| 2025 | 🥈 **2nd Place** | Data Mining Competition — Trunojoyo University Madura (UTM) |
+| 2025 | 🎤 **Best Presentation** | KIS ANAVA #19 — Gadjah Mada University (UGM) |
+| 2025 | 4️⃣ **4th Place** | Sebelas Maret Statistics Dashboard Competition (SSDC), Statistics Fair — Sebelas Maret University (UNS) |
+| 2025 | 🏅 **Top 6** | Data Visualization Competition, P!NGFEST — Sebelas Maret University (UNS) |
 | 2025 | 🎯 **Finalist** | Estatics Competition, GAMMAFEST — IPB University (IPB) |
-| 2025 | 5️⃣ **5th Place** | Essay Competition, Smart Statistics (SMATIC) 6.0 — Universitas Negeri Jakarta (UNJ) |
-| 2024 | 🥉 **3rd Place** | Infographic Competition, Tadulako Data Challenge (TDC) — Universitas Tadulako (UNTAD) |
+| 2025 | 5️⃣ **5th Place** | Essay Competition, Smart Statistics (SMATIC) 6.0 — State University of Jakarta (UNJ) |
+| 2024 | 🥉 **3rd Place** | Infographic Competition, Tadulako Data Challenge (TDC) — Tadulako University (UNTAD) |
 
 ---
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect & Collaborate!
 
-Punya ide proyek data, peluang kolaborasi, atau sekadar ingin berdiskusi tentang analitik dan *machine learning*? Jangan ragu untuk menghubungi saya.
+Have a data project idea, a collaboration opportunity, or just want to chat about analytics and machine learning? Feel free to reach out.
 
 <p align="center">
   <a href="URL_LINKEDIN">
