@@ -10,7 +10,7 @@
 
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:10B981&height=200&section=header&text=Hi%20there,%20I'm%20Satya%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20BI%20Specialist&descSize=20&descAlignY=58" alt="Header Banner" />
+  <img src="Dark Blue White Futuristic Illustration Artificial Intelligence Presentation.pngtype=waving&color=0:0F172A,50:0E7490,100:10B981&height=200&section=header&text=Hi%20there,%20I'm%20Satya%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%26%20BI%20Specialist&descSize=20&descAlignY=58" alt="Header Banner" />
 </p>
 
 <p align="center">
