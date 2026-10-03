@@ -116,9 +116,8 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 ---
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Satbiest&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
