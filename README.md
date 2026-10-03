@@ -59,7 +59,7 @@ Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawas
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
