@@ -50,12 +50,12 @@ I am a data practitioner passionate about turning **raw data** into **high-impac
 
 | Period | Role | Organization |
 |:------:|:-----|:-------------|
-| Mar 2026 – Apr 2026 | 📈 **Business Analyst Intern** | PT Asuransi BRILife — Bancassurance Strategy Division |
-| Oct 2025 - Nov 2025 | 🤖 **Data Scientist Intern** | Technocolabs Softwares Inc. |
-| Feb 2025 – Jul 2025 | 🤖 **Data Scientist Intern** | PT Telkom Indonesia (Persero) Tbk (Telkom) — Digital Business & Technology |
-| Dec 2024 – Feb 2025 | 📊 **Data Analyst Intern** | PT Global Data Inspirasi |
-| Jan 2025 – Feb 2025 | 📊 **Data Analyst Intern** | Kudata.Id |
-| Aug 2024 – Dec 2024 | 🎓 **Teaching Assistant** | Sebelas Maret University (UNS) |
+| Mar 2026 – Apr 2026 |  **Business Analyst Intern** | PT Asuransi BRILife — Bancassurance Strategy Division |
+| Oct 2025 - Nov 2025 |  **Data Scientist Intern** | Technocolabs Softwares Inc. |
+| Feb 2025 – Jul 2025 |  **Data Scientist Intern** | PT Telkom Indonesia (Persero) Tbk (Telkom) — Digital Business & Technology |
+| Dec 2024 – Feb 2025 |  **Data Analyst Intern** | PT Global Data Inspirasi |
+| Jan 2025 – Feb 2025 |  **Data Analyst Intern** | Kudata.Id |
+| Aug 2024 – Dec 2024 |  **Teaching Assistant** | Sebelas Maret University (UNS) |
 
 ---
 
