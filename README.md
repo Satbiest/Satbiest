@@ -47,8 +47,8 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 <!-- ===================== EXPERIENCE ===================== -->
 ## Experience
 
-| Period | Role | Organization |
-|:------|:-----|:--------|
+| Role | Organization |
+|:------|:--------|
 | **Business Analyst Intern** — Bancassurance Strategy Division | PT Asuransi BRI Life |
 | **Data Scientist Intern** | Technocolabs Softwares Inc. |
 | **Data Scientist Intern** — Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk |
