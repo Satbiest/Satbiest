@@ -166,10 +166,10 @@ Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawas
 Punya ide proyek data, peluang kolaborasi, atau sekadar ingin berdiskusi tentang analitik dan *machine learning*? Jangan ragu untuk menghubungi saya.
 
 <p align="center">
-  <a href="URL_LINKEDIN">
+  <a href="https://www.linkedin.com/in/satyaresiadi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:EMAIL_ANDA">
+  <a href="mailto:satyabintang10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="URL_PORTOFOLIO">
