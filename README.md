@@ -49,12 +49,12 @@ Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawas
 
 | Role | Organisasi |
 |:-----|:-----------|
-| 📈 **Business Analyst Intern** — Bancassurance Strategy Division | PT Asuransi BRILife |
-| 🤖 **Data Scientist Intern** | Technocolabs Softwares Inc. |
-| 🤖 **Data Scientist Intern** — Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk (Telkom) |
-| 📊 **Data Analyst Intern** | PT Global Data Inspirasi |
-| 📊 **Data Analyst Intern** | Kudata.Id |
-| 🎓 **Teaching Assistant** | Sebelas Maret University (UNS) |
+|  **Business Analyst Intern** — Bancassurance Strategy Division | PT Asuransi BRILife |
+|  **Data Scientist Intern** | Technocolabs Softwares Inc. |
+|  **Data Scientist Intern** — Digital Business & Technology | PT Telkom Indonesia (Persero) Tbk (Telkom) |
+|  **Data Analyst Intern** | PT Global Data Inspirasi |
+|  **Data Analyst Intern** | Kudata.Id |
+|  **Teaching Assistant** | Sebelas Maret University (UNS) |
 
 ---
 
