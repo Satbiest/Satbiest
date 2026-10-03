@@ -59,34 +59,43 @@ My goal is to help teams make better decisions with trustworthy data.
 
 ### 📊 Data Analytics
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20MySQL-336791?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20NumPy%20%7C%20SciPy-3776AB?style=for-the-badge)
-![R](https://img.shields.io/badge/R-Statistical%20Computing-276DC3?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-217346?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-334155?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-475569?style=for-the-badge)
-![A/B Testing](https://img.shields.io/badge/Experimentation-A%2FB%20Testing-0E7490?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel" />
+  <img src="https://img.shields.io/badge/EDA-334155?style=for-the-badge" alt="Exploratory Data Analysis" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-475569?style=for-the-badge" alt="Hypothesis Testing" />
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-0E7490?style=for-the-badge" alt="A/B Testing" />
+</p>
 
 ### 🤖 Data Science & Machine Learning
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-337AB7?style=for-the-badge)
-![Time Series](https://img.shields.io/badge/Time%20Series-LSTM%20%7C%20GRU-0E7490?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature-Engineering-475569?style=for-the-badge)
-![Optuna](https://img.shields.io/badge/Optuna-Hyperparameter%20Tuning-233A6C?style=for-the-badge)
-![Model Deployment](https://img.shields.io/badge/Model-Deployment-0F766E?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Optuna-233A6C?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna" />
+  <img src="https://img.shields.io/badge/Time%20Series-LSTM%20%7C%20GRU-0E7490?style=for-the-badge" alt="Time Series Analysis, LSTM, and GRU" />
+  <img src="https://img.shields.io/badge/Feature-Engineering-475569?style=for-the-badge" alt="Feature Engineering" />
+  <img src="https://img.shields.io/badge/Model-Deployment-0F766E?style=for-the-badge" alt="Model Deployment" />
+</p>
 
 ### 📈 Business Intelligence
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?style=for-the-badge)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-Reporting-4285F4?style=for-the-badge)
-![Star Schema](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-334155?style=for-the-badge)
-![KPI Dashboarding](https://img.shields.io/badge/KPI-Dashboarding-0E7490?style=for-the-badge)
-![Data Storytelling](https://img.shields.io/badge/Data-Storytelling-0F766E?style=for-the-badge)
-
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema-334155?style=for-the-badge" alt="Star Schema Data Modeling" />
+  <img src="https://img.shields.io/badge/KPI-Dashboarding-0E7490?style=for-the-badge" alt="KPI Dashboarding" />
+  <img src="https://img.shields.io/badge/Data-Storytelling-0F766E?style=for-the-badge" alt="Data Storytelling" />
+</p>
 ---
 
 ## GitHub Statistics
