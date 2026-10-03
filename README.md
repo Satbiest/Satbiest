@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Satbiest">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Satya+Resiadi;Data+Analyst+%7C+Data+Scientist+%7C+Business+Intelligence;Turning+Data+into+Business+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Satya+Resiadi+%F0%9F%91%8B;Data+Analyst+%7C+Data+Scientist+%7C+Business+Intelligence;Turning+Data+into+Business+Impact" alt="Typing SVG" />
   </a>
 </p>
 
