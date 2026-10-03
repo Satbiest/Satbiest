@@ -45,7 +45,7 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 ---
 
 <!-- ===================== EXPERIENCE ===================== -->
-## 💼 Experience
+## Experience
 
 | Role | Organisasi |
 |:-----|:-----------|
