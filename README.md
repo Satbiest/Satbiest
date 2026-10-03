@@ -61,7 +61,6 @@ Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawas
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack & Tools
 
-### 📊 Data Analytics
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
   <img width="12" />
@@ -74,37 +73,6 @@ Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawas
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" height="40" alt="Tableau logo" title="Tableau" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/looker-icon.svg" height="40" alt="Looker Studio logo" title="Looker Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" title="Pandas" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" title="Matplotlib" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/seaborn-icon.svg" height="40" alt="Seaborn logo" title="Seaborn" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly logo" title="Plotly" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" title="Jupyter Notebook" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab logo" title="Google Colab" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" title="Azure" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" height="40" alt="n8n logo" title="n8n" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery logo" title="BigQuery" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit logo" title="Streamlit" />
-</div>
-
-### 🤖 Data Science & Machine Learning
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" title="Python" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" height="40" alt="SQL logo" title="SQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" title="Pandas" />
   <img width="12" />
@@ -138,34 +106,11 @@ Saya adalah praktisi data yang antusias mengubah **data mentah** menjadi **wawas
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery logo" title="BigQuery" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit logo" title="Streamlit" />
-</div>
-
-### 📈 Business Intelligence
-<div align="left">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_sql.svg" height="40" alt="SQL logo" title="SQL" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_excel.svg" height="40" alt="Microsoft Excel logo" title="Microsoft Excel" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-power-bi.svg" height="40" alt="Power BI logo" title="Power BI" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau-icon.svg" height="40" alt="Tableau logo" title="Tableau" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/looker-icon.svg" height="40" alt="Looker Studio logo" title="Looker Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="40" alt="Plotly logo" title="Plotly" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" title="Azure" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/n8n-icon.svg" height="40" alt="n8n logo" title="n8n" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" title="MySQL" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" height="40" alt="BigQuery logo" title="BigQuery" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="40" alt="Streamlit logo" title="Streamlit" />
 </div>
 
 ---
