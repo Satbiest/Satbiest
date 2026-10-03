@@ -118,13 +118,15 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Satbiest&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satbiest&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Satbiest&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
