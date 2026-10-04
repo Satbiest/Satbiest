@@ -160,7 +160,7 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 | 2025 | 🏅 **Top 10** | Data Analyst Competition (DAC) Find IT — Universitas Gadjah Mada (UGM) |
 | 2025 | 🎯 **Finalist** | Estatics Competition, GAMMAFEST — IPB University (IPB) |
 | 2025 | 5️⃣ **5th Place** | Essay Competition, Smart Statistics (SMATIC) 6.0 — Universitas Negeri Jakarta (UNJ) |
-| 2025 | 5️⃣ **5th Place** | Infographic Competition Statistics Data Challenge ( SDC ) UNISBA |
+| 2025 | 5️⃣ **5th Place** | Infographic Competition Statistics Data Challenge ( SDC ) — UNISBA |
 | 2024 | 🥉 **3rd Place** | Infographic Competition, Tadulako Data Challenge (TDC) — Universitas Tadulako (UNTAD) |
 
 ---
