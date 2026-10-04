@@ -191,5 +191,5 @@ My experience spans **dashboard development, real-time data pipelines, machine l
 </p>
 
 <p align="center">
-  <i>"Without data, you're just another person with an opinion."</i> — W. Edwards Deming
+  <i>"Think Data, Act Smarter, Achieve More"</i>
 </p>
