@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-%5BDemak%2C%20Indonesia%5D-0F172A?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Location" />
 <img src="https://img.shields.io/badge/Education-Sebelas%20Maret%20University-0F172A?style=flat-square&logo=googlescholar&logoColor=22D3EE" alt="Education: Sebelas Maret University" />
-  <img src="https://img.shields.io/badge/Competitions-9%20Awards%20%26%20Finalist-0E7490?style=flat-square&logo=awesomelists&logoColor=white" alt="Awards" />
+  <img src="https://img.shields.io/badge/Competitions-10+%20Awards%20%26%20Finalist-0E7490?style=flat-square&logo=awesomelists&logoColor=white" alt="Awards" />
 </p>
 
 ---
